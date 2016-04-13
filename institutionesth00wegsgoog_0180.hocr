@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./institutionesth00wegsgoog_0180.png"; bbox 0 0 865 1392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 685 968 736 1124">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 685 968 736 1124">
+     <span class='ocr_line' id='line_1_1' title="bbox 685 968 736 1124; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 685 968 736 1124; x_wconf 48' lang='lat' dir='ltr'>:²de⁹</span> <span class='ocrx_word' id='word_1_2' title='bbox 701 1110 708 1117; x_wconf 63' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 659 707 747 1302">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 672 627 747 1296">
+     <span class='ocr_line' id='line_1_2' title="bbox 708 729 747 1296; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 717 729 741 802; x_wconf 47' lang='lat' dir='ltr'>„a</span> <span class='ocrx_word' id='word_1_4' title='bbox 734 861 741 873; x_wconf 58' lang='grc' dir='ltr'>ν</span> <span class='ocrx_word' id='word_1_5' title='bbox 708 908 747 1296; x_wconf 46' lang='grc' dir='ltr'>»ῖς-ὟἿὟὙΨΊ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 659 707 734 1302; textangle 270"><span class='ocrx_word' id='word_1_6' title='bbox 686 707 724 854; x_wconf 65' lang='grc' dir='ltr'><em>τ</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 672 881 722 971; x_wconf 49' lang='grc' dir='ltr'>τε..</span> <span class='ocrx_word' id='word_1_8' title='bbox 698 1130 700 1133; x_wconf 95' lang='grc'>-</span> <span class='ocrx_word' id='word_1_9' title='bbox 714 1230 716 1233; x_wconf 92' lang='grc'>·</span> <span class='ocrx_word' id='word_1_10' title='bbox 659 1255 734 1302; x_wconf 89' lang='grc' dir='ltr'>Ὗ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 865 1392">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 865 1392">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 865 1392; textangle 270"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 865 1392; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
